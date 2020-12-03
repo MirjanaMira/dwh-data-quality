@@ -1,3 +1,4 @@
+## dwh-data-quality 
 ## Project Purpose
 This currently only an exemplary repository of how to measure certain aspects of data quality (non-comprehensive). There 
 are specific [data quality deminsions]() that we have identified as being 'low hanging fruit' to model and measure data 
