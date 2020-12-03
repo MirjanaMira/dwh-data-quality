@@ -1,0 +1,22 @@
+
+
+#ide's
+.idea/
+.sublime-project
+.sublime-workspace
+.project
+.pydevproject
+
+config/*
+/data
+data/*
+logs/*
+.ipynb_checkpoints
+.bash_history
+
+#pypi wheel built packages
+build
+dist
+*.egg-info
+*.tar.gz
+config/
